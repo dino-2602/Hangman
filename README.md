@@ -48,7 +48,7 @@ git clone https://github.com/dino-2602/Hangman
 
 ## Verwendung
 Technologien im Einsatz:
-<div> [![Java][java.com]][java-url] </div>
+<div>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 Verbindung zur Datenbank (optional)
