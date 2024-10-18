@@ -46,8 +46,9 @@ git clone https://github.com/dino-2602/Hangman
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Verwendung
+## Verwendung
 Technologien im Einsatz:
+[![Java][java.com]][java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 Verbindung zur Datenbank (optional)
