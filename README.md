@@ -40,7 +40,18 @@ Zusammengefasst bietet diese Version des Spiels:
 - Eine neue Option zur Eingabe der maximalen Fehlversuche.
 
 ## Installation
-```bash
-# Repository klonen
-cmd
-$ git clone https://github.com/dino-2602/Hangman
+```cmd
+git clone https://github.com/dino-2602/Hangman
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Verwendung
+Technologien im Einsatz:
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Verbindung zur Datenbank (optional)
+Falls die Anwendung auch Datenbank-Funktionalität benötigt, kann die Verbindung zur Datenbank mit Main.java erfolgen, wobei die Klassen Connection, DriverManager, ResultSet, SQLException und Statement genutzt werden. Dies ist jedoch optional für die Basisfunktion des Hangman-Spiels.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- MARKDOWN LINKS & IMAGES --> <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
