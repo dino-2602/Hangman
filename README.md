@@ -47,12 +47,19 @@ git clone https://github.com/dino-2602/Hangman
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Verwendung
-Technologien im Einsatz:
-<div>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</div>
+Technologien im Einsatz:  
+[![Java][java.com]][java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 Verbindung zur Datenbank (optional)
 Falls die Anwendung auch Datenbank-Funktionalität benötigt, kann die Verbindung zur Datenbank mit Main.java erfolgen, wobei die Klassen Connection, DriverManager, ResultSet, SQLException und Statement genutzt werden. Dies ist jedoch optional für die Basisfunktion des Hangman-Spiels.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- MARKDOWN LINKS & IMAGES --> <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[java-url]: https://www.java.com/de/
+[product-screenshot]: Screen.png
 
